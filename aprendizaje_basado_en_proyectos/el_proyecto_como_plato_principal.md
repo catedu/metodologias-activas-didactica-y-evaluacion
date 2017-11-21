@@ -15,4 +15,4 @@ El proyecto como plato principal del aprendizaje se caracteriza porque:
 
 El aprendizaje basado en proyectos es una metodología que permite a los alumnos aprender contenidos curriculares y poner en práctica competencias clave.
 
-![](images/image7.png)
+![](/images/image7.png)

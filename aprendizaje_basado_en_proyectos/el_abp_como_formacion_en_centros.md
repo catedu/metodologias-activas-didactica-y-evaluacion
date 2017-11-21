@@ -1,6 +1,6 @@
 ## El ABP como formación en centros {#el-abp-como-formaci-n-en-centros}
 
-En educación parece bastante lógico y conveniente que la formación del profesorado se realice, fundamentalmente, dentro del espacio de trabajo e intentando solucionar los problemas reales que acontecen durante el proceso. La formación en centros es, por ello, una modalidad clave en los planes de formación permanente de las distintas administraciones y es un recurso indispensable tanto para el desarrollo profesional de los docentes como para la búsqueda activa de la mejora en los centros.![](images/image8.png)
+En educación parece bastante lógico y conveniente que la formación del profesorado se realice, fundamentalmente, dentro del espacio de trabajo e intentando solucionar los problemas reales que acontecen durante el proceso. La formación en centros es, por ello, una modalidad clave en los planes de formación permanente de las distintas administraciones y es un recurso indispensable tanto para el desarrollo profesional de los docentes como para la búsqueda activa de la mejora en los centros.![](/images/image8.png)
 
 Imagen: Elaboración propia
 

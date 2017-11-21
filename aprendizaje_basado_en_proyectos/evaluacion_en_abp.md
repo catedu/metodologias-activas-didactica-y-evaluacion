@@ -10,7 +10,7 @@ Enseñanza y evaluación son las dos caras de una misma moneda. Entre ambas debe
 
 Por ello, si nuestro estilo de enseñanza está cerca de la &quot;instrucción directa&quot; que describiremos en el primer módulo y nuestro estilo de evaluación consiste en un examen escrito en el cual solicitamos de nuestros estudiantes que reproduzcan el contenido que nosotros expusimos en la fase de presentación, el mensaje en relación con el estilo de aprendizaje de nuestros estudiantes es bien claro: es necesario memorizar los contenidos y ninguna otra competencia (en inglés podríamos hablar de [21st Century Skills](https://www.google.com/url?q=http://www.bie.org/research/21st_century_skills&sa=D&ust=1511270171056000&usg=AFQjCNHB0Delyq5UJf8oeHFbKggIHt5otQ)) es necesaria.
 
-![](images/image17.png)
+![](/images/image17.jpg)
 
 Imagen: [ccarlstead](https://www.google.com/url?q=http://www.flickr.com/photos/cristic/359572656/&sa=D&ust=1511270171057000&usg=AFQjCNFW8PlC9ldx784wDK8FDxKZY7VZHg) con licencia CC by 2.0
 
@@ -36,72 +36,20 @@ El diario de aprendizaje constituye una herramienta para la reflexión y anális
 
 En el interesante artículo [El diario como estrategia didáctica](https://www.google.com/url?q=http://aprendeenlinea.udea.edu.co/lms/moodle/mod/resource/view.php?inpopup%3Dtrue%26id%3D34201&sa=D&ust=1511270171058000&usg=AFQjCNHMyZTdRBBesanxs03bnzsyQwlllA) se citan algunos de los principales valores que encuentran en la utilización del diario como estrategia de formación:
 
-| 
 
 *   Es activo y personal.
-
- |
-| --- |
-| 
-
 *   Implica una reflexión sobre lo narrado y sobre la conducta profesional.
-
- |
-| 
-
 *   Requiere una estructuración deliberada de su significado relacionando la información obtenida con la ya experimentada con anterioridad.
-
- |
-| 
-
 *   Es multirrepresentacional e imaginativo y favorece la organización de la experiencia vivida en la formación.
-
- |
-| 
-
 *   Facilita la reconstrucción del proceso seguido, con lo que se obtiene información sobre la evolución del pensamiento del profesor.
-
- |
-| 
-
 *   Permite la obtención de autoinformación reforzadora e informativa.
-
- |
-| 
-
 *   Favorece la estructuración, síntesis y análisis de la información.
-
- |
-| 
-
 *   Fomenta el autoanálisis.
-
- |
-| 
-
 *   Facilita la inclusión de la acción en los comentarios del profesorado.
-
- |
-| 
-
 *   Produce un filtraje cognitivo de la conducta y un alejamiento respecto a ella.
-
- |
-| 
-
 *   Permite detectar problemas y explicitar las concepciones personales.
-
- |
-| 
-
 *   Posibilita el cambio de concepciones.
-
- |
-| 
-
-*   Facilita la transformación de la práctica
-
- |
+*   Facilita la transformación de la práctica.
 
 A la hora de poner en práctica un diario de aprendizaje la herramienta fundamental es el blog. Numerosas plataformas ofrecen la creación y gestión gratuita de blogs, las más conocidas son [Blogger.com](https://www.google.com/url?q=https://www.blogger.com/&sa=D&ust=1511270171062000&usg=AFQjCNFNlvqWbhtvWfeDUFt9Og1jOqSZXg) y [Wordpress.com](https://www.google.com/url?q=https://wordpress.com/&sa=D&ust=1511270171062000&usg=AFQjCNFHHHepeeoY8yY5Y1B5iPYuWHBsJw).
 
@@ -113,7 +61,7 @@ Con total seguridad, cuando tú realizas cualquier actividad te gusta saber a pr
 
 Imagina ahora una tarea que quieras que realicen tus estudiantes. Esta tarea supone un proceso de trabajo y conlleva la obtención de un producto. Si estableces las categorías que determinan el éxito del proceso y del producto, si ordenas los posibles grados de éxito y redactas unos enunciados que describan esos grados de éxito, entonces ya has hecho la rúbrica para evaluar la tarea.
 
-![](images/image12.png)
+![](/images/image12.jpg)
 
 Definición y uso
 

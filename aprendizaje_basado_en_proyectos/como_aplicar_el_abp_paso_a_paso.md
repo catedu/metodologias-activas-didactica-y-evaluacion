@@ -1,6 +1,6 @@
 ## Cómo aplicar el ABP paso a paso {#c-mo-aplicar-el-abp-paso-a-paso}
 
-![](images/image10.png)
+![](/images/image10.png)
 
 Diseño de la pregunta guía (driving question):
 
@@ -20,7 +20,7 @@ Al diseñar las preguntas guía se debe procurar que tengan las siguientes carac
 
 Trabajar en equipo
 
-![](images/image4.png)Los alumnos deben organizarse en grupos de tres o cuatro, procurando que haya diversidad de perfiles con el fin de que cada uno pueda desempeñar un rol diferente y ajustado a su estilo de aprendizaje. En el blog de Merche Martín [@merche70](https://www.google.com/url?q=https://twitter.com/merche70&sa=D&ust=1511270171050000&usg=AFQjCNHNljiqw6SJowtr6eqXOY3lGUJ2Ew), creadora del blog [laclasedemerche](https://www.google.com/url?q=http://laclasedemerche.wordpress.com/&sa=D&ust=1511270171051000&usg=AFQjCNHWSQu7YAv7xLVqVS9TO2-Qu7vBiA), se han realizado unas fantásticas infografías sobre normas y roles en el trabajo colaborativo (aunque ella lo denomina cooperativo):
+![](/images/image4.jpg)Los alumnos deben organizarse en grupos de tres o cuatro, procurando que haya diversidad de perfiles con el fin de que cada uno pueda desempeñar un rol diferente y ajustado a su estilo de aprendizaje. En el blog de Merche Martín [@merche70](https://www.google.com/url?q=https://twitter.com/merche70&sa=D&ust=1511270171050000&usg=AFQjCNHNljiqw6SJowtr6eqXOY3lGUJ2Ew), creadora del blog [laclasedemerche](https://www.google.com/url?q=http://laclasedemerche.wordpress.com/&sa=D&ust=1511270171051000&usg=AFQjCNHWSQu7YAv7xLVqVS9TO2-Qu7vBiA), se han realizado unas fantásticas infografías sobre normas y roles en el trabajo colaborativo (aunque ella lo denomina cooperativo):
 
 *   [Rol de portavoz](https://www.google.com/url?q=http://easel.ly/infographic/58gf4u&sa=D&ust=1511270171051000&usg=AFQjCNHjoYnOK9UyqYp8QispHlK1Ly0tug)
 *   [Rol de secretario](https://www.google.com/url?q=http://easel.ly/infographic/dq6u8k&sa=D&ust=1511270171052000&usg=AFQjCNGHt7oYmqGCVT9D0yQ266KWX_AKiw)

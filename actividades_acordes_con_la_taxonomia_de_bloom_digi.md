@@ -6,7 +6,7 @@ En 1956, el psicólogo educativo [Benjamin Bloom](https://www.google.com/url?q=h
 
 Como una de las piezas fundamentales del pensamiento educativo actual, a través de la taxonomía del aprendizaje de Bloom, parece adecuado revisar cómo y por qué se debe dar “la vuelta” para un estudiante del siglo 21\. En teoría, la taxonomía funciona como una serie de pasos para ayudar a los alumnos a “ascender” de niveles de pensamiento de orden inferior a otros de orden superior. Creemos interesante profundizar y aportar ejemplos prácticos de cómo llevarlo a cabo. Habitualmente, los estudiantes comienzan con las tareas más básicas como recordar hechos, cifras y otros datos; después se sigue un proceso mas o menos estructurado, a través de la comprensión de  la información, la aplicación de nuevos procedimientos o estrategias, el análisis para entender sus partes, la evaluación de la información y, finalmente, la creación de nueva información, tanto de un “producto”, como de un proceso o de un nuevo punto de vista sobre la base de la información original ([Overbaugh y Schultz,](https://www.google.com/url?q=http://www.journals.cluteonline.com/index.php/TLC/article/view/1127/1111&sa=D&ust=1511270171094000&usg=AFQjCNGluSB0EcIrP1XtnztOHeoIhaIpXg)[la taxonomía de Bloom](https://www.google.com/url?q=http://www.journals.cluteonline.com/index.php/TLC/article/view/1127/1111&sa=D&ust=1511270171094000&usg=AFQjCNGluSB0EcIrP1XtnztOHeoIhaIpXg)[ ](https://www.google.com/url?q=http://www.journals.cluteonline.com/index.php/TLC/article/view/1127/1111&sa=D&ust=1511270171094000&usg=AFQjCNGluSB0EcIrP1XtnztOHeoIhaIpXg)). En general, se acepta que la mayoría de los alumnos no lleguen (o lleguen tarde) a la parte superior de la pirámide de Bloom (que representa los niveles complejos, abstractos de pensamiento). Como [Wright afirma en su artículo](https://www.google.com/url?q=http://shelleywright.wordpress.com/2012/05/29/flipping-blooms-taxonomy/&sa=D&ust=1511270171094000&usg=AFQjCNHIo8t3KiL0zV95Iwwn5YgRC9p8lA), “es probable que sólo los académicamente expertos lleguen a la cima” En este gráfico proponemos algunas actividades prácticas para el trabajo con cada uno de los niveles taxonómicos.
 
-![tax](images/image3.jpg)
+![tax](/images/image3.jpg)
 
 ![Licencia Creative Commons](images/image9.png)
 
@@ -18,6 +18,6 @@ Licencia [Creative Commons Atribución-CompartirIgual 4.0 Internacional](https:/
 
 Bloom y verbos que identifican las fases
 
-![](images/image18.png)
+![](/images/image18.jpg)
 
-![](images/image2.png)
+![](/images/image2.jpg)

@@ -16,4 +16,4 @@ Sin embargo, hay otra manera de enseñar. Imagina que el docente propone a sus e
 
 Es decir, hay maneras de enseñar que entienden que aprender no es sólo entender y memorizar sino también buscar, elegir, discutir, aplicar, errar, corregir, ensayar. Hay maneras de enseñar que demuestran que &quot;aprender&quot; puede ser una modalidad de &quot;hacer&quot;. Y maneras de enseñar que, está demostrado científicamente, no son efectivas para que los alumnos aprendan.
 
-![](images/image1.png)
+![](/images/image1.png)

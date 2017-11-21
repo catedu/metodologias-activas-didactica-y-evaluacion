@@ -4,7 +4,7 @@ Todo buen proyecto debe cumplir dos criterios fundamentales: debe tener sentido 
 
 Estos son los ocho elementos esenciales que debe incluir un buen proyecto.
 
-![](images/image15.png)
+![](/images/image15.png)
 
 ### 1\. Contenido significativo {#1-contenido-significativo}
 

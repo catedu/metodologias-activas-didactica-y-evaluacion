@@ -2,9 +2,9 @@
 
 Hemos “cruzado” las dimensiones del conocimiento con los elementos de la taxonomía de Bloom revisada y hemos añadido las palabras clave, que en forma de verbos, nos pueden ayudar a definir el tipo de actividad cognitiva que el alumno va a desarrollar, bien ANTES o EN la CLASE. Esta matriz es el resultado:
 
-![bloom dimensiones](images/image16.jpg)
+![bloom dimensiones](/images/image16.jpg)
 
-![Licencia Creative Commons](images/image9.png)
+![Licencia Creative Commons](/images/image9.png)
 
 Formación en Red del INTEF
 

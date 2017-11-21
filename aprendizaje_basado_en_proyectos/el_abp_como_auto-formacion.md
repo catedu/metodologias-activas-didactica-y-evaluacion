@@ -1,6 +1,6 @@
 ## El ABP como auto-formación {#el-abp-como-auto-formaci-n}
 
-![](images/image5.png)
+![](/images/image5.jpg)
 
 Imagen: [César Poyatos](https://www.google.com/url?q=http://www.flickr.com/photos/35590362@N02/4417546581&sa=D&ust=1511270171066000&usg=AFQjCNEo6DnmpKZTplmZXVUlKmvJOX3CJg) con licencia CC by-nc-sa 2.0
 
