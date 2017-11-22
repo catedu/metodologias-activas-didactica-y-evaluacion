@@ -2,7 +2,9 @@
 
 No hay una única manera de enseñar, como tampoco hay una única manera de aprender. Sin embargo, cada forma de enseñar genera aprendizajes distintos.
 
-[https://www.youtube.com/watch?v=iJyhR7uCMJw](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DiJyhR7uCMJw&sa=D&ust=1511270171039000&usg=AFQjCNFt2oT7OxGHrssytp-oUA58ij2Ilg)
+https://www.youtube.com/watch?v=iJyhR7uCMJw
+
+NOTA: El visionado del vídeo es obligatorio puesto que pueden aparecer preguntas sobre contenidos desarrollados en él en el cuestionario.
 
 ### La enseñanza directa {#la-ense-anza-directa}
 

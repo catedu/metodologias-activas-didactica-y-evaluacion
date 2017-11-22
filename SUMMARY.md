@@ -10,7 +10,6 @@
   * [El ABP como auto-formación](aprendizaje_basado_en_proyectos/el_abp_como_auto-formacion.md)
   * [El ABP como formación en centros](aprendizaje_basado_en_proyectos/el_abp_como_formacion_en_centros.md)
 * [EL MODELO FLIPPED CLASSROOM.](el_modelo_flipped_classroom/README.md)
-  * [¿Qué es el Flipped classroom?](el_modelo_flipped_classroom/que_es_el_flipped_classroom.md)
   * [La eficacia del modelo Flipped.](el_modelo_flipped_classroom/la_eficacia_del_modelo_flipped.md)
   * [Retos del Flipped Classroom.](retos_del_flipped_classroom.md)
   * [FC y la taxonomía de Bloom.](fc_y_la_taxonomia_de_bloom.md)
