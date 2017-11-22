@@ -6,7 +6,7 @@ Una de las claves del Flipped es el cambio en la tipología de las actividades d
 
 Mira detenidamente este video de Raul Santiago que explica la taxonomía de Bloom:
 
-https://www.youtube.com/watch?v=MrBbminU9Vw&feature=youtu.be
+{% youtube %}https://www.youtube.com/watch?v=MrBbminU9Vw&feature=youtu.be{% endyoutube %}
 
 NOTA: El visionado del vídeo es obligatorio puesto que pueden aparecer preguntas sobre contenidos desarrollados en él en el cuestionario.
 

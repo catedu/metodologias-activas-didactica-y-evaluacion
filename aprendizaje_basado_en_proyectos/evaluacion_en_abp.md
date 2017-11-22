@@ -28,7 +28,7 @@ Limitar la función evaluadora a la calificación sin implicaciones en la regula
 
 ### La evaluación en el ABP {#la-evaluaci-n-en-el-abp}
 
-https://www.youtube.com/watch?v=0K2RDTAp6bg
+{% youtube %}https://www.youtube.com/watch?v=0K2RDTAp6bg{% endyoutube %}
 
 NOTA: El visionado del vídeo es obligatorio puesto que pueden aparecer preguntas sobre contenidos desarrollados en él en el cuestionario.
 

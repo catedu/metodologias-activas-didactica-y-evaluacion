@@ -2,7 +2,7 @@
 
 No hay una única manera de enseñar, como tampoco hay una única manera de aprender. Sin embargo, cada forma de enseñar genera aprendizajes distintos.
 
-https://www.youtube.com/watch?v=iJyhR7uCMJw
+{% youtube %}https://www.youtube.com/watch?v=iJyhR7uCMJw{% endyoutube %}
 
 NOTA: El visionado del vídeo es obligatorio puesto que pueden aparecer preguntas sobre contenidos desarrollados en él en el cuestionario.
 

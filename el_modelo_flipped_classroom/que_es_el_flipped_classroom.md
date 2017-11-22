@@ -8,6 +8,6 @@ Al desplazar una parte del tiempo dedicado a la transmisión de contenidos desde
 
 En este video de Raul Santiago se explica este modelo:
 
-[https://www.youtube.com/watch?v=Bdd_Dr7QUQ4](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DBdd_Dr7QUQ4&sa=D&ust=1511270171074000&usg=AFQjCNEg-6-GmUlxQeKkd0LY92Vl7q6MvA)
+{% youtube %}https://www.youtube.com/watch?v=Bdd_Dr7QUQ4{% endyoutube %}
 
 NOTA: El visionado del vídeo es obligatorio puesto que pueden aparecer en el test preguntas sobre contenidos desarrollados en él en el cuestionario.
