@@ -16,3 +16,4 @@
     * [Actividades acordes con la taxonomía de Bloom "Digita](actividades_acordes_con_la_taxonomia_de_bloom_digi.md)
     * [Conectando las dimensiones cognitivas y la taxonomía revisada de Bloom](conectando_las_dimensiones_cognitivas_y_la_taxonom.md)
 
+### CC BY SA Este curso y sus materiales se distribuyen con licencia Creative Commons. Contenido extraido de cursos creados por el **Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado Ministerio de Educación, Cultura y Deporte**
