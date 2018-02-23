@@ -15,9 +15,7 @@
   * [FC y la taxonomía de Bloom.](fc_y_la_taxonomia_de_bloom.md)
     * [Actividades acordes con la taxonomía de Bloom "Digita](actividades_acordes_con_la_taxonomia_de_bloom_digi.md)
     * [Conectando las dimensiones cognitivas y la taxonomía revisada de Bloom](conectando_las_dimensiones_cognitivas_y_la_taxonom.md)
-* Créditos
+* [Créditos](creditos.md)
 
-## 
-
-
+---
 
