@@ -1,3 +1,20 @@
 {
-    "plugins": ["youtube"]
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"],
+    "language": "es",
+    "variables": {
+        "title": "Metodologías activas, didáctica y evaluación",
+        "author": "Contenidos seleccionados por el equipo de CATEDU a partir de los cursos del INTEF Aprendizaje basado en proyectos y Dale la vuelta a tu clase ",
+        "collaborators": [
+            { "name": ".", "edited": "" }
+        ]
+    },
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "Imagen - _CAPTION_"
+        },
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
+        }
+    }
 }
