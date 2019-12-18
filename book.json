@@ -1,1 +1,43 @@
-{"plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors"], "language": "es", "variables": {"title": "Metodologías activas, didáctica y evaluación", "author": "Contenidos seleccionados por el equipo de CATEDU a partir de los cursos del INTEF Aprendizaje basado en proyectos y Dale la vuelta a tu clase ", "collaborators": [{"name": ".", "edited": ""}]}, "pluginsConfig": {"image-captions": {"caption": "Imagen - _CAPTION_"}, "localized-footer": {"hline": true, "filename": "./FOOTER.md"}, "edit-link": {"base": "https://github.com/catedu/metodologias-activas-didactica-y-evaluacion/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "metodologias-activas-didactica-y-evaluacion"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Metodologías activas, didáctica y evaluación",
+    "author": "Contenidos seleccionados por el equipo de CATEDU a partir de los cursos del INTEF Aprendizaje basado en proyectos y Dale la vuelta a tu clase ",
+    "collaborators": [
+      {
+        "name": ".",
+        "edited": ""
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
+    },
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/metodologias-activas-didactica-y-evaluacion/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "metodologias-activas-didactica-y-evaluacion"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
